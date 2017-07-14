@@ -42,21 +42,20 @@ nav ul li a:hover {
 	padding-right: 50px;*/
 }
 
+/*  ACTIVATE THIS FOR WHOLE-BLOCK ON CLICK */
+
+/*nav ul li:active {
+	padding: 5px 40px;
+	background-color: blue;*/
+/*}*/
+
+/* ACTIVATE THIS FOR TEXT-SURROUND ON CLICK */
+
+
 nav ul li a:active {
 	padding: 0 5px;
 	background-color: blue;
 }
-
-/*li {
-	background-color: lightgrey;
-	margin: 0 10px 0 10px;
-}
-
-li:hover {
-	background-color: lightgreen;
-	width: 110px;
-}*/
-
 
 
 
